@@ -1,3 +1,10 @@
+NAME- SHUBHAM KUMAR
+ERP- RU-26-02973
+SECTION- B2
+PS NO- 39
+TOPIC- FLAPPY BIRD CLONE
+
+
 import pygame
 import random
 import sys
