@@ -284,3 +284,11 @@ Project Type: Python Game Development
 Purpose: Educational Project
 
 ⭐ If you like this project, you can star the repository on GitHub!
+
+
+
+**Mentored by:** [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+**GitHub:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+**Role:** Python Mentor / Technical Guide
