@@ -271,21 +271,6 @@ It also demonstrates how test cases can be used to verify different functions of
 
 This project is useful for beginners who want to learn Python programming and basic software testing.
 
-14. Author
-
-Project Name: Flappy Bird Game
-
-Programming Language: Python
-
-Library: Pygame
-
-Project Type: Python Game Development
-
-Purpose: Educational Project
-
-⭐ If you like this project, you can star the repository on GitHub!
-
-
 
 **Mentored by:** [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
 
